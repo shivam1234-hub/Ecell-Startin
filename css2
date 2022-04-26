@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Baloo Bhaina 2';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/baloobhaina2/v18/qWc-B6yyq4P9Adr3RtoX1q6ySgbwusXwJjkOS-XEssPvRQ.ttf) format('truetype');
+}

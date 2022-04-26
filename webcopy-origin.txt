@@ -1,0 +1,1352 @@
+Uri: http://icons.iconarchive.com/icons/uiconstock/socialmedia/256/Dribbble-icon.png
+File Name: D:\www.startin.ecell-iitkgp.org\icons\uiconstock\socialmedia\256\Dribbble-icon.png
+Content Type: image/png
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\jquery\3.4.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png
+File Name: D:\www.startin.ecell-iitkgp.org\data\icons\logotypes\32\702270.png
+Content Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\animejs\2.0.2\anime.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\ajax\libs\popper.js\1.16.0\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\ui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://dev.ecell-iitkgp.org/startin10/ecell_white.png
+File Name: D:\www.startin.ecell-iitkgp.org\startin10\ecell_white.png
+Content Type: image/png
+
+Uri: https://export.qodethemes.com/_toolbar/assets/js/rbt-modules.js?ver=5.2.2
+File Name: D:\www.startin.ecell-iitkgp.org\_toolbar\assets\js\rbt-modules.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap
+File Name: D:\www.startin.ecell-iitkgp.org\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Heebo:400,500&display=swap
+File Name: D:\www.startin.ecell-iitkgp.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:700
+File Name: D:\www.startin.ecell-iitkgp.org\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans
+File Name: D:\www.startin.ecell-iitkgp.org\css-2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/baloobhaina2/v18/qWc-B6yyq4P9Adr3RtoX1q6ySgbwusXwJjkOS-XEssPvRQ.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\s\baloobhaina2\v18\qWc-B6yyq4P9Adr3RtoX1q6ySgbwusXwJjkOS-XEssPvRQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v19/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\s\heebo\v19\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v19/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\s\heebo\v19\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUOjIg1_i6t8kCHKm459WxZqh7g29NNpQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUOjIg1_i6t8kCHKm459WxZqh7g29NNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUOjIg1_i6t8kCHKm459WxZqh7k29M.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUOjIg1_i6t8kCHKm459WxZqh7k29M.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUOjIg1_i6t8kCHKm459WxZqh7p29NNpQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUOjIg1_i6t8kCHKm459WxZqh7p29NNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUOjIg1_i6t8kCHKm459WxZqh7q29NNpQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUOjIg1_i6t8kCHKm459WxZqh7q29NNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUOjIg1_i6t8kCHKm459WxZqh7r29NNpQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUOjIg1_i6t8kCHKm459WxZqh7r29NNpQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZbgjz-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZbgjz-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZbgjz8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZbgjz8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZbgjz8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZbgjz8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZbgjz8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZbgjz8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZbgjz_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZbgjz_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZBg_z-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZBg_z-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZBg_z8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZBg_z8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZBg_z8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZBg_z8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZBg_z8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZBg_z8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZBg_z_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZBg_z_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZcgvz_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZcgvz_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZFgrz-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZFgrz-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZFgrz8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZFgrz8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZFgrz8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZFgrz8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZFgrz8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZFgrz8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZFgrz_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZFgrz_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZOg3z-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZOg3z-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZOg3z8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZOg3z8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZOg3z8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZOg3z8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZOg3z8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZOg3z8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZOg3z_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZOg3z_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZSgnz-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZSgnz-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZSgnz8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZSgnz8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZSgnz8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZSgnz8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZSgnz8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZSgnz8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZSgnz_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZSgnz_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZYgzz-PZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZYgzz-PZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZYgzz8fZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZYgzz8fZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZYgzz8vZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZYgzz8vZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZYgzz8_ZwnCo.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZYgzz8_ZwnCo.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUPjIg1_i6t8kCHKm459WxZYgzz_PZw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUPjIg1_i6t8kCHKm459WxZYgzz_PZw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxC7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRyS7m.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm459WxRzS7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRxC7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm45_QpRxC7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRxi7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm45_QpRxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRxy7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm45_QpRxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRyS7m.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm45_QpRyS7m.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUQjIg1_i6t8kCHKm45_QpRzS7mw9c.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUQjIg1_i6t8kCHKm45_QpRzS7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_aZA3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_aZA3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_aZA3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_aZA3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_aZA3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_aZA3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_bZF3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_c5H3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_cJD3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_cJD3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_cJD3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_cJD3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_cJD3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_cJD3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_dJE3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_dJE3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_epG3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_epG3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3g3D_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3g3D_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gbD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gfD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gnD_g.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTURjIg1_i6t8kCHKm45_ZpC3gTD_u50.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTURjIg1_i6t8kCHKm45_ZpC3gTD_u50.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459W1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459Wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459Wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WRhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v14\JTUSjIg1_i6t8kCHKm459WZhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v23/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\s\montserrat\v23\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v28/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\s\opensans\v28\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz0dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz4dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEz8dL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzAdLw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzMdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzQdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOiCnqEu92Fr1Mu51QrEzwdL_nz.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51S7ACc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TjASc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TLBCc6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic-CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic0CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic1CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic2CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic3CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic5CsTKlA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOjCnqEu92Fr1Mu51TzBic6CsQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxIIzI.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1MmgVxMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xEIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xFIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xGIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xHIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xIIzI.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xIIzI.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xLIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOkCnqEu92Fr1Mu51xMIzIFKw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmSU5fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: D:\www.startin.ecell-iitkgp.org\s\roboto\v20\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://kit.fontawesome.com/5d20cba58a.js
+File Name: D:\www.startin.ecell-iitkgp.org\5d20cba58a.js
+Content Type: text/javascript
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css
+File Name: D:\www.startin.ecell-iitkgp.org\bootstrap\4.4.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\bootstrap\4.4.1\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://oxides.qodeinteractive.com/wp-content/themes/oxides/assets/img/preload_pattern.png
+File Name: D:\www.startin.ecell-iitkgp.org\wp-content\themes\oxides\assets\img\preload_pattern.png
+Content Type: image/png
+
+Uri: https://oxides.qodeinteractive.com/wp-content/uploads/2015/10/error_image.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\wp-content\uploads\2015\10\error_image.jpg
+Content Type: image/jpeg
+
+Uri: https://reg-ges.ecell-iitkgp.org/static/contacts/img/shashwat.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\static\contacts\img\shashwat.jpg
+Content Type: image/jpeg
+
+Uri: https://weloveiconfonts.com/api/?family=fontawesome
+File Name: D:\www.startin.ecell-iitkgp.org\api\index.htm
+Content Type: text/css
+
+Uri: https://weloveiconfonts.com/api/fonts/fontawesome/fontawesome-webfont.eot
+File Name: D:\www.startin.ecell-iitkgp.org\api\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://weloveiconfonts.com/api/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: D:\www.startin.ecell-iitkgp.org\api\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://weloveiconfonts.com/api/fonts/fontawesome/fontawesome-webfont.svg
+File Name: D:\www.startin.ecell-iitkgp.org\api\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://weloveiconfonts.com/api/fonts/fontawesome/fontawesome-webfont.ttf
+File Name: D:\www.startin.ecell-iitkgp.org\api\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://weloveiconfonts.com/api/fonts/fontawesome/fontawesome-webfont.woff
+File Name: D:\www.startin.ecell-iitkgp.org\api\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.ecell-iitkgp.org/images/sm2k19/aa.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\images\sm2k19\aa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecell-iitkgp.org/images/sm2k19/af.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\images\sm2k19\af.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecell-iitkgp.org/images/sm2k19/gi.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\images\sm2k19\gi.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecell-iitkgp.org/images/sm2k19/sb.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\images\sm2k19\sb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.ecell-iitkgp.org/images/sm2k19/yv.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\images\sm2k19\yv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/
+File Name: D:\www.startin.ecell-iitkgp.org\index.htm
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/acc/login
+File Name: D:\www.startin.ecell-iitkgp.org\acc\login.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/acc/login?q=startup
+File Name: D:\www.startin.ecell-iitkgp.org\acc\login-1.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/acc/login?q=student
+File Name: D:\www.startin.ecell-iitkgp.org\acc\login-2.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/acc/reg-startup
+File Name: D:\www.startin.ecell-iitkgp.org\acc\reg-startup.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/acc/reg-student
+File Name: D:\www.startin.ecell-iitkgp.org\acc\reg-student.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/internships
+File Name: D:\www.startin.ecell-iitkgp.org\internships.html
+Content Type: text/html
+
+Uri: https://www.startin.ecell-iitkgp.org/media/CVWorkshop.pptx
+File Name: D:\www.startin.ecell-iitkgp.org\media\CVWorkshop.pptx
+Content Type: application/vnd.openxmlformats-officedocument.presentationml.presentation
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/17910809_1513871458643575_1751072338_n.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\17910809_1513871458643575_1751072338_n.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/250-horizontal.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\250-horizontal.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/4-SKC_Logo-min.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\4-SKC_Logo-min.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/4170319-a261f7b5ecaef50de853d7870836ab00-medium_jpg.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\4170319-a261f7b5ecaef50de853d7870836ab00-medium_jpg.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/antwak_logo01.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\antwak_logo01.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/bambinos1.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\bambinos1.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/brinc_logo_for_email.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\brinc_logo_for_email.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/CENSIE_Capital_Partners_20200409_220458.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\CENSIE_Capital_Partners_20200409_220458.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/colco_logo..png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\colco_logo..png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Digital_Hasgtag_Logo-01_1.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Digital_Hasgtag_Logo-01_1.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/dp.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\dp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/ec-logo__01.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\ec-logo__01.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Erfinden_Purple_Logo_Round.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Erfinden_Purple_Logo_Round.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/final_logo.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\final_logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/gogoBusLogo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\gogoBusLogo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Hackstrap_logo_blue.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Hackstrap_logo_blue.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/halfcute_logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\halfcute_logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/highres-ma.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\highres-ma.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/hubifylogo.jpeg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\hubifylogo.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Hurrey-normal.PNG
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Hurrey-normal.PNG
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/IMG-20181105-WA0012.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\IMG-20181105-WA0012.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/IMG-20200302-WA0044_F35b2K6.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\IMG-20200302-WA0044_F35b2K6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/IMG-20200413-WA0012.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\IMG-20200413-WA0012.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/IMG_20200413_182439.JPG
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\IMG_20200413_182439.JPG
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/inbound5287752608389058159.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\inbound5287752608389058159.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/inbound8423755618545590997.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\inbound8423755618545590997.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/info.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\info.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/KM_2-01.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\KM_2-01.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Limen_Leap_Labs_Logo1.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Limen_Leap_Labs_Logo1.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/loadpage_knowmad_icon.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\loadpage_knowmad_icon.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/logo-2.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\logo-2.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/logo-inverse.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\logo-inverse.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/LOGO.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\LOGO.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/logo1.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\logo1.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/logo_full.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\logo_full.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Logo_PNG.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Logo_PNG.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/logo_ss_bw.JPG
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\logo_ss_bw.JPG
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Logo_with_white_BG_Gf9cOQL.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Logo_with_white_BG_Gf9cOQL.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/LOKACI.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\LOKACI.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/MF.jpeg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\MF.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/MNL.webp
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\MNL.webp
+Content Type: application/octet-stream
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/New_Logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\New_Logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/NlPBot-logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\NlPBot-logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/PicsArt_03-21-10.16.40.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\PicsArt_03-21-10.16.40.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/plumue_logo_V_FIN_1.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\plumue_logo_V_FIN_1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/qversity.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\qversity.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/rh-logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\rh-logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Screenshot_2020-03-29_22.23.28.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Screenshot_2020-03-29_22.23.28.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Screenshot_2020-04-21_at_10.59.43_AM.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Screenshot_2020-04-21_at_10.59.43_AM.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Screenshot_20200410-173112__01_l5JdSR1.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Screenshot_20200410-173112__01_l5JdSR1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Screenshot_20200414-004954.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Screenshot_20200414-004954.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/SIF_Logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\SIF_Logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Small_Bag_Delivery-07.jpg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Small_Bag_Delivery-07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Subhag_Logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Subhag_Logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/TBTCC_logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\TBTCC_logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/The-middle-Road-Logo-Final-.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\The-middle-Road-Logo-Final-.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/Time_table.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\Time_table.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/UrbanRider_Logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\UrbanRider_Logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/WA_LOGO.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\WA_LOGO.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/WhatsApp_Image_2020-01-01_at_00.07.58.jpeg
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\WhatsApp_Image_2020-01-01_at_00.07.58.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/WhatsLoan_Logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\WhatsLoan_Logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/media/logos/_20200416_150738.JPG
+File Name: D:\www.startin.ecell-iitkgp.org\media\logos\_20200416_150738.JPG
+Content Type: image/jpeg
+
+Uri: https://www.startin.ecell-iitkgp.org/media/terms_conditions.pdf
+File Name: D:\www.startin.ecell-iitkgp.org\media\terms_conditions.pdf
+Content Type: application/pdf
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/animate.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\animate.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/blog-responsive.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\blog-responsive.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/blog.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\blog.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/css.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\css.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/css_002.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\css_002.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/font-awesome_002.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\font-awesome_002.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/js_composer.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\js_composer.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/mediaelementplayer-legacy.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\mediaelementplayer-legacy.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/modules-responsive.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\modules-responsive.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/modules.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\modules.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/plugins.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\plugins.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/rbt-modules.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\rbt-modules.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/settings.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\settings.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/simple-line-icons.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/slider-def.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\slider-def.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/style.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\style.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/styles.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\styles.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/style_002.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\style_002.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/style_003.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\style_003.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/style_dynamic.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\style_dynamic.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/style_dynamic_responsive.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\style_dynamic_responsive.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/woocommerce-responsive.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\woocommerce-responsive.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/woocommerce.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\woocommerce.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/css/wp-mediaelement.css
+File Name: D:\www.startin.ecell-iitkgp.org\static\css\wp-mediaelement.css
+Content Type: text/css
+
+Uri: https://www.startin.ecell-iitkgp.org/static/images/favicon.png
+File Name: D:\www.startin.ecell-iitkgp.org\static\images\favicon.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/static/images/side_area_logo.png
+File Name: D:\www.startin.ecell-iitkgp.org\static\images\side_area_logo.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/static/images/startin.png
+File Name: D:\www.startin.ecell-iitkgp.org\static\images\startin.png
+Content Type: image/png
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/0ee9e.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\0ee9e.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/0fef6.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\0fef6.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/1887a.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\1887a.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/63a69.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\63a69.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/83b4e.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\83b4e.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/864c2.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\864c2.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/beede.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\beede.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/common.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\common.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/eff97.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\eff97.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/f1253.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\f1253.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/fe83b.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\fe83b.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/jquery.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/rbt-modules.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\rbt-modules.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.actions.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.actions.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.carousel.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.kenburn.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.kenburn.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.layeranimation.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.layeranimation.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.migration.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.migration.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.navigation.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.navigation.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.parallax.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.parallax.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.slideanims.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.slideanims.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/revolution.extension.video.min.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\revolution.extension.video.min.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/util.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\util.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/static/js/wp-emoji-release.js
+File Name: D:\www.startin.ecell-iitkgp.org\static\js\wp-emoji-release.js
+Content Type: application/javascript
+
+Uri: https://www.startin.ecell-iitkgp.org/team
+File Name: D:\www.startin.ecell-iitkgp.org\team.html
+Content Type: text/html
+
